@@ -5,6 +5,12 @@ This project visualizes customer demographic and spending behavior using the **C
 
 ---
 
+## Dashboard
+<img width="1023" height="566" alt="Image" src="https://github.com/user-attachments/assets/c9328ee9-6549-40db-aae1-3af33c495553" />
+
+
+---
+
 ## 🖥️ Dashboard Highlights  
 
 ### 1. Demographics  
